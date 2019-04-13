@@ -1,14 +1,13 @@
-# Lab Exercise
-Using the text-edit of your choice (e.g., Atom), create a new file called `PROFILE.md`.
+# Jeff Bezos made only $81,840 last year. He's still the richest person in the world.
 
-In this exercise, you will create a mini profile of yourself.
+In the past two decades, Jeff Bezos made the same **$81,840** salary. However, he receives over one million dollars in services and travel expenses and has over $100 billion in Amazon stock. He is not the only CEO to receive a low salary. CEOs like *Steve Jobs* and *Sergey Brin* only took a $1 salary. 
+>Amazon says its security costs are "especially reasonable in light of his low salary and the fact that he has never received any stock-
+based compensation."
 
-In your `PROFILE.md` document, format a title as header with your name as H1, University of Washington as H2, and your class standing as H3
+![image](bezos.jpg)
 
-Next, you will insert a photo of yourself using **relative path**.
+Additional Information
 
-Then, write a little description about yourself with at least 2 different format stylings like **bold**, or *italicized*.
-
-Next, rank your favorite foods in an **unordered** list.
-
-Lastly, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+* Bezos used to get paid even less: In 1994 he made $64,333.
+* Bezos makes more than the median Amazon salary though, which is $28,836. 
+* Amazon recently raised its minimum wage to $15 an hour for its full time employees. 
